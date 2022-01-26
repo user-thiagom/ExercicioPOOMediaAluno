@@ -1,0 +1,15 @@
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\bin\Debug\net6.0\ExercicioPOOMediaAluno.exe
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\bin\Debug\net6.0\ExercicioPOOMediaAluno.deps.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\bin\Debug\net6.0\ExercicioPOOMediaAluno.runtimeconfig.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\bin\Debug\net6.0\ExercicioPOOMediaAluno.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\bin\Debug\net6.0\ref\ExercicioPOOMediaAluno.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\bin\Debug\net6.0\ExercicioPOOMediaAluno.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.csproj.AssemblyReference.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.AssemblyInfoInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.AssemblyInfo.cs
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ref\ExercicioPOOMediaAluno.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOMediaAluno\obj\Debug\net6.0\ExercicioPOOMediaAluno.genruntimeconfig.cache
